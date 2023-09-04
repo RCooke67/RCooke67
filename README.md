@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RCooke67
 - 👀 I’m interested in Python, Offic Suite Automation and SQL relating to data analysis 
-- 🌱 I’m currently learning Python, C##
+- 🌱 I’m currently learning Python, C#
 - 💞️ I’m looking to collaborate on anything that interests me!
-- 📫 How to reach me, by email rcooke@me.com
+- 📫 How to reach me, by email Private: rcooke@me.com   Work:Richard.Cooke@ArrowCounty.com
 
 <!---
 RCooke67/RCooke67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
